@@ -1,0 +1,8 @@
+1.命名：如  zyh_aa.html
+            在css img中新建自己的文件夹 
+            不是做首页的名字不要叫 sindex.hmtl
+2.bass.css 是去除一些默认样式
+3.rem.js    引入在最上面   100px=1rem
+
+有什么问题及时向组长说。
+
