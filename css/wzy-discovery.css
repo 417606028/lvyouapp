@@ -1,0 +1,33 @@
+/*.wzy-top{
+	width: 100%;
+	background-image: url(../img/wzy-top.png);
+	background-position: center center;
+	background-size: cover;
+	height: 0.88rem;
+}
+.wzy-top-content{
+	margin: 0 auto;
+	text-align: center;
+}
+.wzy-top-content h2{
+	font-size: 0.24rem;
+	line-height: 0.4rem;
+	font-weight: 700;
+	font-family: "微软雅黑";
+}*/
+/*.wzy-discover-banner{
+	width: 7.5rem;
+	height: 6.46rem;
+	background-image: url(../img/wzy-discover-bannerh.png);
+	background-size: 100%;
+	background-position: center center;
+}
+.wzy-zhan{
+	height: 0.88rem;
+	width: 100%;
+}
+.wzy-discover-banner .wzy-search{
+	width: 100%;
+	height: 1.04rem;
+	background: rgba(0,0,0,.51);
+}*/
